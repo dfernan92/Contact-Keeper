@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://davi:davi123@contactkeeper-df5gj.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubToken": "060f2609e569f0c728923b721d4b9ee4667ffbc9"
+}
